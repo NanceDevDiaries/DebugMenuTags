@@ -1,4 +1,6 @@
 *
+!.gitattributes
+!.gitignore
 !Source/LyraGame/UI/MySettingScreen.h
 !Source/LyraGame/UI/MySettingScreen.cpp
 !Source/LyraGame/Settings/MySettingsLocal.h
